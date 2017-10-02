@@ -1,6 +1,5 @@
-#opx-tools
+# opx-tools
 
-##Description
-The opx-tools repo hosts tools that will be used in OPX Package Management.
+This repository hosts tools that will be used in OPX Base package management.
 
-(c) Dell 2016
+© 2017 Dell EMC
